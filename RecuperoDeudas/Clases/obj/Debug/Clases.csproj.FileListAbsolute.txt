@@ -1,0 +1,6 @@
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\bin\Debug\Clases.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\bin\Debug\Clases.pdb
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\obj\Debug\Clases.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Clases\obj\Debug\Clases.pdb

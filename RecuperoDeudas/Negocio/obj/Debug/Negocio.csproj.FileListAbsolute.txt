@@ -1,0 +1,13 @@
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Negocio.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Clases.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Clases.pdb
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\obj\Debug\Negocio.dll
+C:\Users\hp\Desktop\CAI\RecuperoDeudas\RecuperoDeudas\Negocio\obj\Debug\Negocio.pdb
